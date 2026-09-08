@@ -1,0 +1,15 @@
+{
+	"name": "dfpronageshadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "723056c4-3a3a-41d8-8973-0e44cbdbbff0",
+		"tenantId": "66875813-b800-4028-86ee-66a0a2ea1c09"
+	}
+}
